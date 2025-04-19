@@ -1,0 +1,36 @@
+c,cpp,PYTHON:,js
+programming : void main
+scripting   : js,python,...
+
+statically typed :you have specify datatype of variable..
+dynamically typed:you dont  have to specify datatype of variable..
+
+int a =10;
+a =    10
+
+c  : machine lang:
+cpp: 
+python:
+      game,data sci,robotics,web application
+
+python: script,file, .py      
+
+------------------------------------------------
+implicit typecasting  :
+      int x =100.20;
+      print("%d",x) 100
+explicit typecasting  :
+      float --> int
+
+broad type casting
+narrow type casting...
+
+small datype -->big data type:
+int --> float
+float x =100
+
+
+int x = 200.20
+error
+narrow typecasting
+      
