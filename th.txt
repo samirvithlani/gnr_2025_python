@@ -33,4 +33,37 @@ float x =100
 int x = 200.20
 error
 narrow typecasting
+
+operators:
+unery operators : require min max 1 operand : ++a, python does not support
+binary operators :require min 2 operand 
+tenery operators : require min 3 operand 
+
+arithmetic operators : + ,- , * , / ,%, // floor , ** expo
+logical operators    : and or not
+relational operators : <,>,<=,>= , ==,!=
+asignment operators  : =,+=,-=,...
+ternery operator     : ? :
+bitwise operator     : <<,>>,^,|,
+
+membership operator : in not in
+identity operator   :is is not
+
+#decision making statements:
+if else
+switch case* -> match case
+loops
+
+if(condition){
+
+}else{
+
+}
+
+indentent block
+if condition:
+      if part...
+else:
+      else part            
+
       
