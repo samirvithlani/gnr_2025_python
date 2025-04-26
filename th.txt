@@ -2,6 +2,10 @@ c,cpp,PYTHON:,js
 programming : void main
 scripting   : js,python,...
 
+server side: python
+client side: browser:
+
+
 statically typed :you have specify datatype of variable..
 dynamically typed:you dont  have to specify datatype of variable..
 
@@ -78,5 +82,25 @@ cond 1 or && cond 2
 T      -       T
 F      T       T 
 F      F       F
+
+
+
+
+take monthly sal from user: 10000:
+find PA sal : 10000* 12 -->
+if pa salary >=20 lack tax  20%
+if pa salary >=15 lack tax 15%
+if pa salary >=10 lack tax  10%
+if pa salary >5 lack tax  5%
+if pa salary <=5 lack no tax
+
+
+after tax sal > 10 lacks user is elligible for home loan
+after tax sal > 5 lacks user is elligible for car loan
+after tax sal > 2 lacks user is elligible for 2 wheeler loan
+
+
+display total salry PA, deducted tax pa, net salary pa ,and net salary per month, user is eleigble for what kind of loan?
+
 
       
