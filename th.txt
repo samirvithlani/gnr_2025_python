@@ -64,6 +64,19 @@ indentent block
 if condition:
       if part...
 else:
-      else part            
+      else part        
+
+logical operator:
+and or not
+
+cond 1 and && cond 2
+T       T     True
+T       F     False
+F       -     False
+
+cond 1 or && cond 2
+T      -       T
+F      T       T 
+F      F       F
 
       
