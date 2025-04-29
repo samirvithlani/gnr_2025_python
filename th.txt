@@ -104,4 +104,12 @@ display total salry PA, deducted tax pa, net salary pa ,and net salary per month
 
 match case:
 
-      
+loops:
+entry control loops
+ for while
+
+ python does not exit
+exit control loops
+      do while
+
+
