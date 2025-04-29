@@ -102,5 +102,6 @@ after tax sal > 2 lacks user is elligible for 2 wheeler loan
 
 display total salry PA, deducted tax pa, net salary pa ,and net salary per month, user is eleigble for what kind of loan?
 
+match case:
 
       
