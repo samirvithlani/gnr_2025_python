@@ -121,4 +121,22 @@ b =1
 0 1 1 2 3 5 8 13..
 
 
+user input please enter op bal --> 10000
+
+7000
+enter opening balacne
+6000
+enter opening balacne
+4000
+try again later
+
+
+7000
+enter opening balacne
+16000
+bank acount is opened balance is 16000
+
+chances are 3
+
+chances--
 
