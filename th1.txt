@@ -1,0 +1,31 @@
+server side programming lang: console... , c,cp,java...
+client side programming lang : client side , browser html css javascript:
+
+
+statically typee: when you declare a variable you have to specify the datatype of the variable
+c,cpp,java...
+dynamically typed: when you declare a variable you dont have to specify the datatype of the variable
+python,js
+
+
+scripting lang:
+programming lang:
+
+
+operators:
+
+operator are special symbols that perform operations on variables and values.
+type of operators:
+unary operator: require min 1 operand ++ ,--
+binary operator: require min 2 operand
+ternary operator: require min 3 operand
+
+1)arithmetic operator: +,-,*,/,%,//,**
+2)logical operator: and,or,not
+3)relational operator: <,>,<=,>=,==,!=
+4)assignment operator: =,+=,-=,*=,/=,%=,//=,**=
+5)ternary operator: ?:
+6)bitwise operator: <<,>>,|,^,&
+7)membership operator: in,not in
+8)identity operator: is,is not
+
