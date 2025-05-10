@@ -140,3 +140,23 @@ chances are 3
 
 chances--
 
+string: "char" 
+
+array: array is collection similar data types
+"char"
+string: 
+1)string stores collection of char
+2)string is immutable
+3)string is a class
+4)string is a data type 'str'
+5)string stores data in index manner
+6)string is iterable
+7)string is subscriptable
+
+mutable and immutable:
+data = "abc"
+a = 0
+b = 1
+c = 2
+
+data[0] = "A" modify
