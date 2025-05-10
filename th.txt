@@ -160,3 +160,10 @@ b = 1
 c = 2
 
 data[0] = "A" modify
+
+
+task1:
+find no of spaces in string....
+"this is a string"
+ans :3
+
