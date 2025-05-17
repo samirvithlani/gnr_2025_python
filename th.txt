@@ -179,3 +179,21 @@ no = 153: armstrong no
 5 digit no
 
 
+ds in python:
+list :
+1)list is dynamic : [10,20,30] --> add [10,20,30,40] --> grow --> [10,20] -->shrink
+2)list is hetrogenius: [10,"java",True,100]
+3)list is ordered : [10,20,30]-->iterate : 10,20,30
+4)list allows duplicate element
+5)list is mutable
+6)list iterable
+7)list is subscriptable
+
+list datatype list
+
+
+tuple
+dict
+set
+array :array is group of same kind of element
+
