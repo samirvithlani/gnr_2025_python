@@ -14,3 +14,7 @@ data = [["virat",100],["sachin",200],["ms",183]]
 for i,j in data:
     print(i, j, end=" ")
     print()    
+
+print(data[0][0])
+print(data[1][1])
+    
