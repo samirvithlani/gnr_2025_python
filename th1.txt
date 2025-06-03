@@ -39,3 +39,18 @@ Array:
 7)list allows duplicate values = [10,20,30,10,20,30]
 
 8)type of list is list
+
+
+please enter y for continue and n for exit:
+y
+please enter your name: ram
+list add..
+please enter y for continue and n for exit:
+y
+please enter your name: janki
+list add..
+please enter y for continue and n for exit:
+n
+list...
+
+hint: while TRUE
