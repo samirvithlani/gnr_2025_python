@@ -29,3 +29,13 @@ ternary operator: require min 3 operand
 7)membership operator: in,not in
 8)identity operator: is,is not
 
+Array:
+1)list is dynamic =
+2)list is mutable
+3)list is ordered = [10,20,30] -->? 10,20,30
+4)list is iterable 
+5)list is heterogeneous = [10,20,30,"hello",True,3.14]
+6)list is indexed = [10,20,30] --> 0,1,2
+7)list allows duplicate values = [10,20,30,10,20,30]
+
+8)type of list is list

@@ -197,3 +197,24 @@ dict
 set
 array :array is group of same kind of element
 
+
+press y for continue and n for exit
+y
+
+please enter name : aarav
+
+press y for continue and n for exit
+y
+
+Niya
+press y for continue and n for exit
+y
+
+Prachi
+press y for continue and n for exit
+N
+
+aarav
+Niya
+parachi
+
