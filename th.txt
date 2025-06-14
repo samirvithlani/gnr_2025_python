@@ -218,3 +218,16 @@ aarav
 Niya
 parachi
 
+-------------------------------------
+dictionary:
+
+1)dict is collection of key value pair {key:value}
+2)dict allows duplicate values but not duplicate keys
+3)dict is mutable
+4)dict is unordered
+5)dict is iterable
+6)dict is subscriptable
+7)dict is dynamic
+
+dta type of dict is dict
+
