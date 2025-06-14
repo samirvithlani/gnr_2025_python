@@ -231,3 +231,13 @@ dictionary:
 
 dta type of dict is dict
 
+
+
+using matchcase:
+
+case 1 for add data in dict
+case 2 for delete data in dict by key name
+case 3 for display data
+case 4 exit...
+
+
