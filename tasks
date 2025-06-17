@@ -1,0 +1,34 @@
+# Given string
+text = "banana"
+
+# Task: Count how many times each letter appears and store it in a dictionary.
+# Output: {'b': 1, 'a': 3, 'n': 2}
+
+
+# Dictionary with employee IDs and names
+employees = {
+    1: "Raj",
+    2: "Simran",
+    3: "Raj",
+    4: "Aman"
+}
+
+# Task: Find and print names that are assigned to multiple employee IDs.
+
+
+# Two dictionaries with item prices
+shop1 = {"Pen": 10, "Notebook": 40}
+shop2 = {"Pen": 12, "Pencil": 5}
+
+# Task: Merge both dictionaries. If same item exists, keep the lowest price.
+
+# Dictionary with state and capital
+states = {"Gujarat": "Gandhinagar", "Maharashtra": "Mumbai"}
+
+# Task: Swap keys and values so capital becomes key.
+# Output: {"Gandhinagar": "Gujarat", "Mumbai": "Maharashtra"}
+
+# Dictionary of items and their stock
+stock = {"Pen": 10, "Notebook": 0, "Eraser": 5, "Sharpener": 0}
+
+# Task: Remove items from the dictionary that have 0 stock.
