@@ -32,3 +32,11 @@ states = {"Gujarat": "Gandhinagar", "Maharashtra": "Mumbai"}
 stock = {"Pen": 10, "Notebook": 0, "Eraser": 5, "Sharpener": 0}
 
 # Task: Remove items from the dictionary that have 0 stock.
+
+
+1)create func which will accept list as argument and return sum of elements:
+2)create func which will accept string as 
+argument and check if passed str is palindrome or not note: use slicing...
+3)create func which will accept 2 params both are list and concate those list and return new list
+eg: [1,2,3],[4,5,6]
+output:[5,7,9]
