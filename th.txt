@@ -240,4 +240,24 @@ case 2 for delete data in dict by key name
 case 3 for display data
 case 4 exit...
 
+functions:
+built in functions
+user defined functions:
+with returntype with arguments
+without returntype without arguments
+with returntype without arguments
+without returntype with arguments
+
+void add()
+int add(int a, int b)
+
+def funName(a,b):
+      function body
+
+def funName(a,b):
+      function body
+      return a+b      
+
+
+
 
