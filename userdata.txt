@@ -1,0 +1,3 @@
+name =raj
+age =23
+city =mumbai

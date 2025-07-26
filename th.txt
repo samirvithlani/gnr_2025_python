@@ -258,6 +258,19 @@ def funName(a,b):
       function body
       return a+b      
 
+op:
+opened
+read/ write
+close
+
+path:
+
+th.txt
+D:\royal\gnr_2025_python\th.txt
+
+functions\FilterDemo1.py
+D:\royal\gnr_2025_python\functions\FilterDemo1.py
+
 
 
 
