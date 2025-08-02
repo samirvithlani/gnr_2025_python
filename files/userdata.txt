@@ -1,0 +1,4 @@
+id = 1
+name = amit
+age = 23
+status = Active

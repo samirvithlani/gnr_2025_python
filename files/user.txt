@@ -1,0 +1,6 @@
+Name = ram
+age = 22
+Name = parth
+age = 23
+Name = sam
+age = 12
