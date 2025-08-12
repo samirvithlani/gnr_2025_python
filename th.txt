@@ -272,7 +272,31 @@ functions\FilterDemo1.py
 D:\royal\gnr_2025_python\functions\FilterDemo1.py
 
 
+user data --> write:
+name
+age
+salary
+
+OOPS with python:
+encapulation:wrapping data in sigle unit called encapulation
+using class and object we can wrap:
+class:
+class is blupringt of object
+class is collection of data memebr and member function
+object: object is an entity of class
+
+class    object
+Fruit     Apple
+Vehicle   Car
+institute students
+Hospital  Pai,Doc..
+Planet    Eart...
+Flower    PinkRose..
 
 
 
+
+pol
+inh
+abstraction
 

@@ -66,3 +66,8 @@ tuple:
 7)list allows duplicate values = [10,20,30,10,20,30]
 
 8)type of list is list
+
+
+txt
+
+display all palindrome names from file...
