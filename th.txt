@@ -300,3 +300,25 @@ pol
 inh
 abstraction
 
+create function addition(self,*args)
+
+check all param should be int in args if yes return sum of all numbers else return message 
+all elm should be number
+
+
+x = addition(10,20,30) -->60
+x = addition(10,20,True) -->all parsm .,...
+
+
+constructor:
+constructor is a special function which has same name as class name
+use of const is to initilize instance variable of class...
+
+const can be create using __init__(self)
+const will call automtically when class object is created..
+
+const can have params but no return type:
+
+type of const:
+default const
+param const
