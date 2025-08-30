@@ -341,3 +341,24 @@ MObile: use -->call
 2)run time  / dynamic bindings
             *method overriding
 
+
+
+inheirtance:
+
+child class can use prop of parent class this process called inheritance
+
+use:
+reusablity of code
+
+type of inheritance:
+
+single inheritance
+      1 parent ->1 child
+multipule
+      more then 1 parent class 1 child class
+multilevel inheirtance
+      A-->B-->C-->D
+hyrical..
+      multipule + multilevel
+hybride
+      pattern*
