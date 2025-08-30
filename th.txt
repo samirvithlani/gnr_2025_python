@@ -322,3 +322,22 @@ const can have params but no return type:
 type of const:
 default const
 param const
+
+
+polymorephsiam:
+poly means many phsiam : forms
+manu form of the functions
+
+MObile: use -->call
+        use -->message
+        user -->torch
+
+2 type of polymorephsiam
+
+1)compile time /static binding 
+            *method overloading:
+                  same name of function is single class with diff arguments:
+            *operator overloading
+2)run time  / dynamic bindings
+            *method overriding
+

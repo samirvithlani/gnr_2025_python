@@ -55,3 +55,17 @@ def add(data):
 
 add([1,2,3])
 add(["abc",1,2])
+
+
+#class Bank:
+#bank balacne =10000
+#param amount,name
+
+#depost : after depost amount = 
+#withdraw :
+
+
+#please enter name
+#please enter amount
+
+#please enter choice type depost for depost and withdraw for
