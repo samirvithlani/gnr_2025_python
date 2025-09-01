@@ -365,6 +365,7 @@ hybride
 
 multilevel inheritance : example     
 
+
 exams:
 daily club python 2 : Monday
 set_dict mix        : Tuesday
@@ -374,3 +375,17 @@ daily_club_pyhton_med3:Friday
 Friday:final practical exam offline only:  to  6 :7:30
 
 Monday 5 to 6 online:
+
+
+
+Method overriding
+same name of method create in child class called method over riding:
+
+
+jio --> airtel
+
+JioCall  -->call
+AirtleCall -->call
+
+
+yug --> yashvi
